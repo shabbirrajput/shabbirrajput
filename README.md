@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/oyefalakk" target="blank"><img src="https://img.shields.io/twitter/follow/oyefalakk?logo=twitter&style=for-the-badge" alt="oyefalakk" /></a> </p>
 
-- 🔭 I’m currently working at **9Series Pvt Ltd **
+- 🔭 I’m currently working at **9Series Pvt Ltd**
 
 - 🌱 I’m currently learning **Flutter**
 
